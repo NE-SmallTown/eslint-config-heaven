@@ -1,0 +1,17 @@
+node_modules
+
+.idea
+.vscode
+.DS_Store
+.npm
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log
+

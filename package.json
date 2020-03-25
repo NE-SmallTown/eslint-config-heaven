@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-heaven",
+  "version": "1.0.0",
+  "description": "Heaven's eslint config - ESLint Shareable Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eslint", "eslintconfig"],
+  "peerDependencies": {
+    "eslint": ">=6.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NE-SmallTown/eslint-config-heaven.git"
+  },
+  "author": "NE-SmallTown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NE-SmallTown/eslint-config-heaven/issues"
+  },
+  "homepage": "https://github.com/NE-SmallTown/eslint-config-heaven#readme"
+}
