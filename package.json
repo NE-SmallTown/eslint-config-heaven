@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-heaven",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Heaven's eslint config - ESLint Shareable Config",
   "main": "index.js",
   "scripts": {
